@@ -5,8 +5,8 @@
          xmlns:gnome="http://api.gnome.org/doap-extensions#"
          xmlns="http://usefulinc.com/ns/doap#">
 
-    <name>Winepak</name>
-    <shortname>winepak</shortname>
+    <name>Finepak</name>
+    <shortname>finepak</shortname>
     <shortdesc>Flatpak-ing Microsoft Windows applications with Wine</shortdesc>
     <description>Flatpak-ing Microsoft Windows applications with Wine.</description>
 </Project>
