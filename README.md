@@ -2,7 +2,7 @@
 Flatpak-ing Microsoft Windows applications with Wine.
 
 ## Why fork?
-This is a fork of [finepak](https://github.com/finepak), the reason why I wanted to fork is because that project is dead. The last commit was in 2018
+This is a fork of [winepak](https://github.com/winepak), the reason why I wanted to fork is because that project is dead. The last commit was in 2018
 
 ## Goals
 * Package `wine` applications via `flatpak`
